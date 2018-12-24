@@ -14,3 +14,6 @@ gethandler.bat是批处理文件，将Mars的jar和.asm文件与.bat放在同一
 
 最后，向曾经在Github上为我们指路的dalao们致敬（膜）
 
+最后修改于2018.12.24
+
+From Sharinka
